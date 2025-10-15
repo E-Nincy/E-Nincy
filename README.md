@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nincy  
 
 🎓 **Computer Science student** passionate about building practical and creative web applications.  
-💻 Currently learning **Python**, **Flask**, **Django**, and modern web technologies.  
+💻 Currently learning **Python**, **Flask**, **Django**, **JavaScript**, and modern web technologies.  
 🚀 Always improving, exploring, and turning ideas into real projects.  
 
 ---
