@@ -21,7 +21,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=E-Nincy&layout=compact)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=E-Nincy&layout=compact" />
 
 ---
 
